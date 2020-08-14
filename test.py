@@ -1,0 +1,1 @@
+print("questo è il mio primo sorgente python")
